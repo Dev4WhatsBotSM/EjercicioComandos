@@ -30,4 +30,10 @@ git add . se sube todo menos lo que esta en el git ignore
 Como despues de clonar un repo podemos subir nuestro propio repositorio pero ahora en tu propia branch
 
 
+para crear una branch primero 
+
+git checkout -b nombre_de_la_rama
+
+
+
 
