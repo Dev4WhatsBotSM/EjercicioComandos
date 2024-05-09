@@ -9,6 +9,13 @@ Recordatorio de entrar a la carpeta en donde esta el repositorio
  cd (Nombre de la carpeta)
  
 
+Tenemos que agregar los archivos con cambios que se van a subir al igual si se agregaron nuevas cosas
+
+git add (Nombre del archivo)
+
+git add . se sube todo menos lo que esta en el git ignore
+
+
  Posterior necesitamos hacer el commit con la descripcion de que se cambio
 
  git commit -m "Aqui colocamos lo que se hizo de cambio"
